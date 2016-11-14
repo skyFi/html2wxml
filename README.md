@@ -1,5 +1,5 @@
 
-## 微信小程序,HTML转WXM。
+## 微信小程序,HTML转WXML。
 
 ### usage:
 
