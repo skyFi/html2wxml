@@ -1,3 +1,6 @@
+
+## 微信小程序,HTML转WXM。
+
 ### usage:
 
 1. 引入`src`里面`html2json.js/html2wxml.wxml/htmlparser.js/example.wxss`到工程`lib`目录下;
