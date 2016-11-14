@@ -91,6 +91,12 @@ export const html2json = function html2json(html) {
       // 标题样式等
       let tagClass =
         [
+          'h1',
+          'h2',
+          'h3',
+          'h4',
+          'h5',
+          'h6',
           'a',
           'abbr',
           'address',
