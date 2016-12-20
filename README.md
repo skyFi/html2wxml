@@ -3,6 +3,11 @@
 
 ### usage:
 
+
+`npm install html2wxml --save`
+
+或
+
 1. 引入`src`里面`html2json.js/html2wxml.wxml/htmlparser.js/example.wxss`到工程`lib`目录下;
 2. 在需要将html转wxml的地方按下添加代码;
 
