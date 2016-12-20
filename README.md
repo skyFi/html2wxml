@@ -4,7 +4,7 @@
 ### usage:
 
 
-`npm install html2wxml --save`
+[`npm install html2wxml --save`](https://www.npmjs.com/package/html2wxml)
 
 或
 
