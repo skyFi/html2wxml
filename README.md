@@ -3,7 +3,6 @@
 
 ### usage:
 
-
 `npm install html2wxml --save`
 
 或
