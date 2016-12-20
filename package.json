@@ -1,0 +1,22 @@
+{
+  "name": "html2wxml",
+  "version": "1.0.0",
+  "description": "微信小程序,HTML转WXML",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skyFi/html2wxml.git"
+  },
+  "author": "skylor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skyFi/html2wxml/issues"
+  },
+  "homepage": "https://github.com/skyFi/html2wxml#readme"
+}
