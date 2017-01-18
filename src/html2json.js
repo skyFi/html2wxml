@@ -41,6 +41,11 @@ export const html2json = function html2json(html) {
           
           // 去掉空格
           value = value.replace(/\s/g, '');
+          value = value.replace(/(&nbsp;)/g, ' ');
+          value = value.replace(/(&gt;)/g, '>');
+          value = value.replace(/(&lt;)/g, '<');
+          value = value.replace(/(&amp;)/g, '&');
+          value = value.replace(/(&quot;)/g, '"');
           // 多个值划分,单位转换
           let values = value.split(';');
           value = (values || []).map(value => {
