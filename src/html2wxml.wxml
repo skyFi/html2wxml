@@ -3,7 +3,7 @@
 -->
 
 <template name="html2Wxml">
-  <block wx:key="index" wx:for="{{innerWxml}}" wx:for-item="root">
+  <block wx:key="index" wx:for="{{innerHTML}}" wx:for-item="root">
     <text wx:if="{{root.node == 'text'}}" class="{{root.attr.class}}" style="{{root.attr.style}}">{{root.text}}</text>
     <block wx:if="{{root.node == 'element'}}">
       <text class="{{root.attr.class}}" style="{{root.attr.style}}">
