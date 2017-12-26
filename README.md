@@ -1,6 +1,8 @@
 
 ## 微信小程序,HTML转WXML。
 
+好消息，微信小程序在基础库 1.6.4 添加了 [web-view](https://mp.weixin.qq.com/debug/wxadoc/dev/component/web-view.html) 组件！
+
 ### usage:
 
 
